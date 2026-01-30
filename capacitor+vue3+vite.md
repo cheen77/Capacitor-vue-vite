@@ -43,7 +43,7 @@
 
 为了测试不同版本的`Android`，可以考虑将7~14 版本的`SDK`都装起来试试看！
 
-![](img/1.png)
+![](./img/1.png)
 
 
 
@@ -161,13 +161,13 @@ pnpm cap open android ## 打开Android Studio后，第一次加载有点慢（�
 
 - 等待打开`Android Studio`后后，点击 `Android Studio `右上角的 `Sync Project with Gradle Files`按钮，如果出现`Gradle `和`Gradle jdk`版本不兼容，需要到`Android Studio` - `setting`下进行配置
 
-![](img/3.png)
+![](./img/3.png)
 
 - 添加设备
 
-![](img/4.png)
+![](./img/4.png)
 
-![](img/5.png)
+![](./img/5.png)
 
 - 点击右上角的 Run 
 
@@ -260,17 +260,17 @@ npm install -g --include=optional sharp
 
 - 选取`Android Studio`的`Build -> Build Bundle(s ) / APK(s) -> Build APK(s)`
 
-![](img/6.png)
+![](./img/6.png)
 
-![](img/7.png)
+![](./img/7.png)
 
-![](img/8.png)
+![](./img/8.png)
 
-![](img/9.png)
+![](./img/9.png)
 
-![](img/10.png)
+![](./img/10.png)
 
-![](img/11.png)
+![](./img/11.png)
 
 ## 六、理解Capacitor
 
